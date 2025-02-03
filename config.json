@@ -1,0 +1,11 @@
+{
+  "brackets": [
+    { "rate": 10, "up_to": 23200 },
+    { "rate": 12, "up_to": 94300 },
+    { "rate": 22, "up_to": 201050 },
+    { "rate": 24, "up_to": 383900 },
+    { "rate": 32, "up_to": 487450 },
+    { "rate": 35, "up_to": 731200 },
+    { "rate": 37, "up_to": null }
+  ]
+}
